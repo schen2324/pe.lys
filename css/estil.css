@@ -1,0 +1,135 @@
+* {
+    position: relative;
+    margin: 0;
+    font-family: helvetica, sans-serif;
+    color: #ccc;
+}
+.menu {
+    width: 100%;
+    height: 40px;
+    padding: 5px 0 5px 0;
+    background-color: #000;
+    filter: grayscale(50%);
+    z-index: 1;
+    float: left;
+    position: fixed;
+}
+.logo {
+    width: 50px;
+    height: 40px;
+    background-image: url(../img/logo.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0px 0 0px 20px;
+}
+p {
+    margin: -25px 0 0 100px;
+    font-size: 20px;
+}
+.link {
+    float: right;
+    margin: -25px 10px 0px 0px;
+}
+a {
+    margin-right: 5px;
+    text-decoration: none;
+    color: #fff;
+    
+}
+.contenido {
+    background-color: #000;
+    width: 100%;
+    height: 2600px;
+    padding-top: 60px;
+    padding-left: 20px;
+    opacity: 85%;
+}
+.peli {
+    width: 175px;
+    height: 320px;
+    float: left;
+    margin: 10px;
+}
+h1 {
+    clear: both;
+    font-size: 22px;
+}
+h3 {
+    font-size: 14px;
+    margin: 5px 0 10px 0;
+}
+h4 {
+    font-size: 11px;
+    float: left;
+}
+.tipo {
+    float: right;
+}
+.post {
+    width: 175px;
+    height: 260px;
+    margin-bottom: 5px;
+    background-size: cover;
+    border-radius: 5px;
+}
+.post:hover {
+    filter: grayscale(50%);
+}
+.koya {
+    background-image: url(../img/1982Koyaanisqatsi.jpg);
+}
+.ytu {
+    background-image: url(../img/2004YTuQueSabes.jpg);
+}
+.earth {
+    background-image: url(../img/2005Earthlings.jpg);
+}
+.helve {
+    background-image: url(../img/2007Helvetica.jpg);
+}
+.sicko {
+    background-image: url(../img/2007Sicko.jpg);
+}
+.zel {
+    background-image: url(../img/2008Zeitgeist2.jpg);
+}
+.art {
+    background-image: url(../img/2009ArtAndCopy.jpg);
+}
+.home {
+    background-image: url(../img/2009Home.jpg);
+}
+.rip {
+    background-image: url(../img/2009RipARemixManifesto.jpg);
+}
+.comprar {
+    background-image: url(../img/2010ComprarTirarComprar.jpg);
+}
+.inside {
+    background-image: url(../img/2010InsideJob.jpg);
+}
+.ladoc {
+    background-image: url(../img/2011LaDoctrinaDeShock.jpg);
+}
+.search {
+    background-image: url(../img/2012SearchingForSugarMan.jpg);
+}
+.theact {
+    background-image: url(../img/2012TheActOfKilling.jpg);
+}
+.elespi {
+    background-image: url(../img/2013ElEspirituDel45.jpg);
+}
+.pendents {
+    background-image: url(../img/XXXXpeli.jpg);
+}
+.vistes {
+    background-color: grey;
+}
+.seguint {
+    background-image: url(../img/XXXXserie.jpg);
+}
+.svistes {
+    background-color: lightgrey;
+}
+
